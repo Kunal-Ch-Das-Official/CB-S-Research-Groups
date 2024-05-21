@@ -1,0 +1,20 @@
+.wrapperpill{
+    background-color: rgb(0, 0, 0);
+    font-size: 1.8rem;
+    margin-top: 3rem;
+    font-family: Poppins;
+    font-weight: 900;
+    align-items: center;
+    
+}
+
+.studentTitle{
+    border: none;
+    border-radius: 0rem;
+    
+}
+.mainBox{
+    display: flex;
+    justify-content: space-around;
+    
+}

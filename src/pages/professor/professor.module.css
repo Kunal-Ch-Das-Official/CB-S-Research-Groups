@@ -1,0 +1,104 @@
+.BeyondGrid{
+    display: flex;
+    margin: auto;
+    margin-top: 3rem;
+    justify-content: center;
+    flex-direction: column;
+    width: 194px;
+  }
+  .wrapperDiv{
+        --s: 82px;
+        --c1: #b2b2b2;
+        --c2: #ffffff;
+        --c3: #d9d9d9;
+        --_g: var(--c3) 0 120deg,#0000 0;
+        background:
+          conic-gradient(from -60deg at 50% calc(100%/3),var(--_g)),
+          conic-gradient(from 120deg at 50% calc(200%/3),var(--_g)),
+          conic-gradient(from  60deg at calc(200%/3),var(--c3) 60deg,var(--c2) 0 120deg,#0000 0),
+          conic-gradient(from 180deg at calc(100%/3),var(--c1) 60deg,var(--_g)),
+          linear-gradient(90deg,var(--c1)   calc(100%/6),var(--c2) 0 50%,
+          var(--c1) 0 calc(500%/6),var(--c2) 0);
+          background-size: calc(1.732*var(--s)) var(--s);
+          padding: 1rem 2rem;
+          width: 100%;
+          margin-bottom: 3rem;
+  }
+
+  .MainPhoto{
+      border-radius: 1rem;
+      border: var(--outline);
+      box-shadow: var(--button-shadow);
+      width: 100%;
+
+  }
+  .BeyondGridHeading{
+      display: flex;
+      justify-content: center;
+      margin: 1.2rem auto;
+      font-family: Poppins;
+      font-weight: 900;
+      text-shadow: var(--text-shadow);
+  }
+  .GridRow{
+      display: flex;
+      justify-content: center;
+      margin: auto;
+  }
+  
+  .colHeading{
+    font-family: Poppins;
+    text-align: center;
+  }
+  
+  
+  .customBtn{
+      display: flex;
+      text-align: center;
+      justify-content: center;
+      margin: 2.4rem 0 15px 0;
+  
+  }
+ 
+  
+  
+  @media screen and (max-width: 950px){
+      .customBtn{
+          padding: .5rem;
+          font-size: 1rem;
+         
+  
+      }
+  }
+  @media screen and (max-width: 400px){
+    .BeyondGridHeading{
+        display: flex;
+        font-size: 1rem;
+        justify-content: center;
+        text-align: center;
+        
+    }
+  }
+  
+  @media screen and (max-width: 370px){
+      .MainPhoto{
+          
+          display: flex;
+          margin: auto;
+      }
+      .BeyondGridHeading{
+          display: flex;
+          font-size: 1rem;
+          justify-content: center;
+          text-align: center;
+          
+      }
+  }
+
+  @media screen and (max-width: 496px){
+    .position{
+        text-align: center;
+        display: flex;
+        justify-content: center;
+    }
+  }

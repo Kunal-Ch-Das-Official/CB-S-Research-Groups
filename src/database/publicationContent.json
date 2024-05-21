@@ -1,0 +1,379 @@
+[
+    {
+            "year" : "2023",
+            "id" : 1,
+            "thesis" : "Associative Role Of G-C3N4 To BiVO4 Via Favorable Crystallinity And Rapid Charge Carrier Transport For Improved Photoelectrochemical Water Oxidation Process: An In-Situ Composite Explored Through Different Carbon Nitride Precursors",
+            "researcher" : "Sangeeta Ghosh, Paramita Hajra, Sukumar Kundu Sukumar Kundu Department Of Metallurgy And Materials Engineering, Indian Institute Of Engineering Science & Technology (IIEST), Shibpur, Howrah 711103, West Bengal, India More By Sukumar Kundu , Swarnendu Baduri, Debasish Ray, And Chinmoy Bhattacharya*",
+            "publishdate" : "Publication Date: October 23, 2023",
+            "link" : "https://doi.org/10.1021/acsaenm.3c00414",
+            "toggleinfo" : {
+                "imageURL" : "Publication_toggle_image_no-1",
+                "abstractinfo" : "The Present Paper Reports A Simple Drop-Cast Technique To Study The Role Of Various Precursors Of C3N4 Like Melamine (MCN), Urea (UCN), Thiourea (TCN), And G-C3N4 (G-CN) On The Efficacy Of BiVO4 (BV)-Based Composites. X-Ray Diffraction (XRD) Analysis Confirms That The Change In The Precursor Leads To Variation In The Ratio Of The Intensity Of The Second Strongest Peak To That Of The Most Intense Peak And Is Significantly Higher For The Optimized Composites When Prepared With Either 0.1% MCN, Or 0.01% TCN, Or 0.001% UCN, Or G-C3N4. The Photoelectrochemical (PEC) Water Oxidation Behavior Of The Composites Varies In The Order Of BV-TCN > BV-UCN > BV-G-CN > BV-MCN > Pure BV, With The Highest Photocurrent (Iph) Of 0.73 MA/Cm2 Recorded For The BV-TCN Composite At 1.77 V Vs RHE, Under 100 MW/Cm2 Illumination, Suggesting Thiourea As The Most Preferred Precursor For C3N4 To Facilitate The Overall Growth Mechanism Of The Semiconductor Composite Matrix. The Reported Iph Is One Of The Most Significant Data Compared To The Values Reported In The Literature Using Similar Composites Developed Through Other Techniques. The Highest IPCE Value Of ∼28% Was Recorded For The BV-TCN Compared To Other Composites. Electrochemical Impedance Spectroscopic Analysis Indicates That The Suitably Modified G-C3N4 Composite Can Participate In The Rapid Transfer Of Photogenerated Holes Across The Electrode–Electrolyte Interface Under Illumination, Illustrating Cooperative Interaction Between G-C3N4 And BiVO4 Phases, Which Are Manifested In The Enhanced Photoelectrochemical Activity Of The Modified Composites."
+
+    }},
+    {
+            "id" : 2,
+            "thesis" : "Development of Transition Metal Incorporated Bismuth-Based Oxide Semiconductors as Potential Candidates for Solar Assisted Water Splitting Applications",
+            "researcher" : "Sangeeta Ghosh, Debajit Laha, Dr. Paramita Hajra, Dr. Debasis Sariket, Debasish Ray, Swarnendu Baduri, Himanshu Sekhar Sahoo, Dr. Chinmoy Bhattacharya",
+            "publishdate" : "First published: 23 February 2023",
+            "link" : "https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/celc.202201062",
+             "toggleinfo" : {
+                "imageURL" : "Publication_toggle_image_no-2",
+                "abstractinfo" : "Photocatalysis is a traditional approach for solving energy crises and environmental pollution control problems. Visible light-sensitive transition metal incorporated bismuth-based metal oxides have enough potential to act as photoelectrodes in the communal of solar energy conversion and environmental remediation. These transition metal incorporated Bi-based metal oxides are of practical importance due to their efficient photocatalytic activity, high stability, low cost and non-toxicity. The latest efforts towards the limitations for improvement in performances of these materials can be controlled by different factors e. g., surface morphology, band gap, size, crystallinity, charge separation efficiency and rate of the charge transfer, etc. The alignment of band position or modification of band energy can also play an important role for these materials. Here, we primarily focus on the detailed discussion of transition metal incorporated bismuth-based oxide semiconductors with suitable modifications – their fabrication and applications to enhance the photoelectrochemical activity."
+    }},
+    {
+            "id" : 3,
+            "thesis" : "Recent Progress on Carbon-Modified Bismuth-Based Oxides for Applications in Photo-Assisted Devices",
+            "researcher" : "S. Ghosh, A. Poddar, H. S. Sahoo, S. Baduri, D. Ray, Dr. C. Bhattacharya",
+            "publishdate" : "Copyright: © 2023",
+            "link" : "http://dx.doi.org/10.4018/978-1-6684-8743-3.ch003",
+            "toggleinfo" : {
+                "imageURL" : "Publication_toggle_image_no-3",
+                "abstractinfo" : "Photocatalysis is a traditional approach to solve energy crises and environmental pollution control. Graphitic carbon nitride (g-C3N4), a 2-D conjugated polymer, along with different other forms of carbon based components like carbon nano-tubes, carbon quantum dots, carbon nano-sheets, carbon nano-wires etc. acts as nano-mediator and serves as promising candidates with bismuth-based oxides for applications in environmental and energy sectors leading to sustainable development. The latest efforts towards overcoming the limitations for improvement in performances of these materials can be controlled by different factors e.g. surface morphology, band gap, size, crystallinity, charge separation efficiency and rate of the charge transfer etc. Here, we primarily focus on the detailed strategies related to the fabrication of different carbon components incorporated bismuth oxides based nano-composites for applications in sustainable development."
+            }
+    },
+    {   
+        "id" : 4,
+        "thesis" : "Pd Quantum Dot Induced Changes in the Photocatalytic, Electrocatalytic, Photoelectrochemical and Thermoelectric Performances of Galvanically Synthesized Sb2se3 Thin Films",
+        "researcher" : "SK Taheruddin Ahamed, Swarnendu Baduri, Prasenjit Chakraborty, Dipali Banerjee, Arindam Basak, Chinmoy Bhattacharya,Anup Mondal.",
+        "publishdate" : "First Published : 19 Nov 2022",
+        "link" : "https://dx.doi.org/10.2139/ssrn.4281626",
+        "toggleinfo" : {
+            "imageURL" : "Publication_toggle_image_no-4",
+            "abstractinfo" : "We present a novel solution-based galvanic (electrochemical) synthesis of antimony selenide light absorber thin films on FTO (Fluorine doped tin oxide) coated glass substrates, enabling morphology variation in presence and in absence of Pd (Palladium) incorporation. The optical, compositional, and electrical and surface morphological properties of the samples were characterized using Energy Dispersive X-ray spectroscopy (EDS), Field Emission Scanning Electron Microscopy(FESEM), X-Ray Diffraction(XRD), Transmission Electron Microscopy(TEM) and Fast Fourier Transform (FFT), UV-Vis spectroscopy respectively. X-ray Photoelectron Spectroscopy(XPS) were employed to determine the elemental state composition of as-deposited and annealed Sb2Se3 films containing Pd. Hydrogen (H2) is a potential alternative of fossil fuels due to its zero-carbon footprint. The hydrogen evolution reaction (HER) employed for the large-scale generation H2 from water splitting. The annealed Sb2Se3:Pd exhibited the highest water splitting efficiency for hydrogen evolution in neutral buffer medium with the small onset potential of -169 mV and a Tafel slope of 37mV/decade. Pd incorporation enhances the efficiency towards HER performance, which shows the 10 mAcm-2 current density at a low overpotential of -250 mV with an excellent durability. An onset potential of 0.41V versus a reversible hydrogen electrode (RHE) is observed with 3.2 mA cm−2 at 0 V versus a RHE under air mass 1.5 global illumination in a neutral electrolyte thus, this device work as an efficient water-splitting devices. To check the performance of this material for the waste water treatment photo degradation of hazardous dyes and metal ions reduction experiment were performed.Thermoelectric properties measurement experiments also carried out to the electrical conductivity of the material. The annealed Sb2Se3:Pd shows the best Figure of merit and power factor values of 39.8 μW/cmK2 and 10.81 x 10-3, respectively at 373K."
+
+        }
+    },
+    {        
+            "year" : "2022",
+            "id" : 5,
+            "thesis" : "In situ chemical synthesis of g-C3N4/In2O3 semiconductor composites for photoelectrochemical water oxidation",
+            "researcher" : "Debasis Sariket, Arjun Maity, Sukumar Kundu, Chinmoy Bhattacharya.",
+            "publishdate" : " Version of Record :  21 August 2022.",
+            "link" : "https://doi.org/10.1016/j.jssc.2022.123484",
+            "toggleinfo" : {
+                "imageURL" : "Publication_toggle_image_no-5",
+                "abstractinfo" : "This paper employed the heat treatment method to obtain g-C3N4/In2O3 composite semiconductor following the deposition-precipitation technique. The physical characterization of the composite semiconductor included diffused reflectance spectroscopy (DRS), X-Ray diffraction (XRD), scanning electron microscopy (SEM), and photoluminescence (PL). There have been significant and promising outputs regarding photoelectrochemical (PEC) activity and fair thermodynamic stability toward water oxidation reaction. The results showed that the composite semiconductor's photoelectrochemical properties were much superior to pristine g-C3N4 or In2O3. The optimized 5.0 ​wt% g-C3N4/In2O3 composite shows the best photocurrent output of 1.3 ​mA ​cm−2 vs Ag/AgCl at 1.2 ​V for water oxidation reaction having bath composition of 0.1 ​M Na2SO4, maintained at pH 7 using PBS under 35 ​mW ​cm−2 irradiation. The Mott-Schottky analysis under electrochemical impedance spectroscopy indicates n-type semiconductivity of the as-prepared composite semiconductors. In addition, the action spectra show ∼48% incident photon to current conversion efficiency (IPCE) for the optimized photoanode. The photocatalytic properties of the photocatalyst were assessed through photodegradation of methylene blue (MB) under UV-visible light irradiation, which follows first-order kinetics. The photodegradation rate constant of MB for g-C3N4 (5.0 ​wt%)/In2O3 is 0.0190 min−1, which is almost doubled as compared to pristine In2O3 (rate constant: 0.0110 min−1). The durability of the laboratory-prepared photoanodes in the PEC process was also investigated. The improved PEC performances derived from the transport of excited electrons from the conduction band of g-C3N4 to In2O3."
+ 
+
+            }
+    },
+    {
+            "id" : 6,
+            "thesis" : "Plasmon-Coupled Donor–Acceptor Type Organic Sensitizer-Based Photoanodes for Enhanced Photovoltaic Activity: Key Information from Ultrafast Dynamical Study",
+            "researcher" : "Nivedita Pan, Sangeeta Ghosh, Md. Nur Hasan, Saleh A. Ahmed*, Arka Chatterjee, Jayita Patwari, Chinmoy Bhattacharya, Jihan Qurban, Abdelrahman S. Khder, and Samir Kumar Pal",
+            "publishdate" : "Publication Date: August 8, 2022",
+            "link" : "https://pubs.acs.org/doi/10.1021/acs.energyfuels.2c02350",
+            "toggleinfo" : {
+                "imageURL" : "Publication_toggle_image_no-6",
+                "abstractinfo" : "Environmentally friendly purely organic dye-sensitized-based solar cells and photoelectrochemical cells have emerged as primary photovoltaic technologies due to their stabilities, cost effectivenesses, and equally high efficiencies compared to conventional ruthenium-based dyes. Nevertheless, back electron hole recombination, fast electron injection, wide band light harvesting, and environmental hazards are crucial aspects that govern advancement in photovoltaic technology. Organic photosensitizers having a delocalized π system of electrons end capped with electron acceptors (A) and donors (D) have easy synthesis methods, excellent abilities to confine solar energy, and exceptional tunable absorbances and have the potential to overcome the above-mentioned crucial aspects in combination with semiconductor–metal (plasmonic) nanohybrids. Here, we have reported enhanced photovoltaic activity of organic D-π-A type photosensitizer (RK1)-based plasmonic Au nanoparticle-decorated hybrid mesoporous TiO2 photoanodes in dye-sensitized solar cells (DSSCs) and in dye-sensitized photoelectrochemical water splitting (DSPEC). The presence of plasmonic material not only reduces the back electron hole recombination but also the spectral overlap of its localized surface plasmon resonance (LSPR) band with that of organic sensitizer RK1 in close proximity to the TiO2 surface, leading to the possibility of Förster resonance energy transfer (FRET) which further enhances the device performance. Further, an ultrafast spectroscopic study has been performed to study the excited-state charge and energy transfer dynamics of the interfaces of the nanohybrids. Our analysis demonstrates the identification of a specific unique combination of the nanohybrid which is useful to design a new generation of solar light-harvesting materials, especially in the case of DSPECs."
+            }
+    },
+    {
+            "id" : 7,
+            "thesis" : "Interaction of a Jaundice Marker Molecule with a Redox-Modulatory Nano-Hybrid: A Combined Electrochemical and Spectroscopic Study toward the Development of a Theranostic Tool",
+            "researcher" : "Susmita Mondal, Nivedita Pan, Ria Ghosh, Arpan Bera, Dipanjan Mukherjee, Tuhin Kumar Maji, Anirudddha Adhikari, Sangeeta Ghosh, Prof. Chinmoy Bhattacharya, Prof. Samir Kumar Pal",
+            "publishdate" : "First published: 24 January 2022",
+            "link": "https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cmdc.202100660",
+            "toggleinfo" : {
+                "imageURL" : "Publication_toggle_image_no-7",
+                "abstractinfo" : "This study explores a combined electrochemical and spectroscopic approach to investigate the degradation of bilirubin, a molecular marker of jaundice in humans using a biocompatible nanohybrid (citrate-functionalized Mn3O4 nanohybrid; C−Mn3O4 NH). The approach is aimed at the development of a facile theranostic tool for treatment, detection, and prognosis of jaundice. Linear sweep voltammetry (LSV) studies on bilirubin, C−Mn3O4 NH, a model carrier protein, and its complex with bilirubin reveal the efficacy of the nanohybrid for both degradation and detection of bilirubin. Furthermore, spectroscopic studies depict that distal electron transfer to be the probable mechanism behind the observed bilirubin degradation in physiological milieu."
+
+            }
+    },
+    {
+        "year" : "2021",
+        "id" : 8,
+        "thesis" : "Optimization of semiconductor–electrolyte interfacial phenomena for stable and efficient photoelectrochemical water oxidation behavior of Bi2Mo2O9–Bi2MoO6 heterojunction",
+        "researcher" : "Swarnendu Baduri, Debasish Sariket, Debasish Ray, Sangeeta Ghosh, Jitendra Kumar Singh, Han-Seung Lee, Chinmoy Bhattacharya.",
+        "publishdate" : " Version of Record : 5 February 2021.",
+        "link": "http://dx.doi.org/10.1016/j.electacta.2021.137754",
+        "toggleinfo" : {
+            "imageURL" : "Publication_toggle_image_no-8",
+            "abstractinfo" : "Bismuth molybdates are considered the essential photocatalysts due to their mesoporous structure, low energy gap, suitable ion conductions, acousto-optics, photo-conduction, and sensing properties. The present report describes a cost-effective route for developing stable and efficient photocatalysts for optical to chemical energy conversion and environmental purification. In this work, we have developed nano-structured mixed bismuth molybdates with different thicknesses in the presence of TX-100 as the surfactant through drop-cast route taking bismuth nitrate and ammonium molybdate as the precursors. Final products were subsequently dried and annealed in air at 600 °C for 3 h. The semiconductors’ photoelectrochemical performance was measured under periodic illumination in the presence of Na2SO4 (0.1 M) solution and (0.1 M) Na2SO3 with 0.1 M Na2SO4 for water and sacrificial oxidation, respectively. These materials exhibit noticeable photocatalytic activity even after successive runs, indicating stable behavior. The materials are composed of Bi2Mo2O9–Bi2MoO6 heterostructures and the film with optimized thickness yields a photocurrent of 220 µA/cm2 at 1.3 V. This value is exceptionally higher in magnitude than the literature reports employing conventionally prepared bismuth molybdates (1.8 µA/cm2). Electrochemical impedance and photocurrent action spectra support a noticeable photon to current conversion efficiencies of the materials under illumination."
+        }
+    },
+    {
+        "year" : "2020",
+        "id" : 9,
+        "thesis" : "Synthesis of g-C3N4/InVO4 Semiconductor for Improved Photocatalytic and Photoelectrochemical Applications",
+        "researcher" : "Debasis Sariket, Debasish Ray, Swarnendu Baduri, Sangeeta Ghosh, Arjun Maity, Chinmoy Bhattacharya",
+        "publishdate" : "First published : 02 October 2020",
+        "link": "https://doi.org/10.1002/elan.202060161",
+        "toggleinfo" : {
+            "imageURL" : "Publication_toggle_image_no-9",
+            "abstractinfo" : "In this paper, graphite-like carbon nitride-indium vanadate (g-C3N4/InVO4) composites have been synthesized via a mixing-calcination method. Physico-chemical and photocatalytic experiments suggested that the optimized g-C3N4/InVO4 composite demonstrates highest photo-activity in degrading Rhodamine B and para-nitrophenol as target pollutants. The electrochemical impedance spectroscopic (Mott-Schottky) analysis confirms n-type semiconductivity for these materials whereas the composite material exhibited highest 13 μA/cm2 photocurrent under periodic UV-Visible irradiation for water oxidation. The relative band positions indicate inter-band interactions between heterojunctions of g-C3N4 and InVO4 facilitating the separation and migration of photogenerated electron-hole pairs and a stable performance was reported."
+        }
+    },
+    {
+        "id" : 10,
+        "thesis" : " Development Of A Magnetic Nanohybrid For Multifunctional Application: From Immobile Photocatalysis To Efficient Photoelectrochemical Water Splitting : A Combined Experiment And Computional Study",
+        "researcher" : "T. K. Maji, Md. N. Hasan, S. Ghosh, D. Wulferding, C. Bhattacharya, P. Lemmens, D. Karmakar, S. K. Pal",
+        "publishdate" : "Version of Record 13 May 2020.",
+        "link": "https://doi.org/10.1016/j.jphotochem.2020.112575",
+        "toggleinfo" : {
+            "imageURL" : "Publication_toggle_image_no-10",
+            "abstractinfo" : "Engineering of highly efficient nanomaterials with visible-light photocatalytic activity that are easily separable and recoverable from treated water is the ultimate goal in the ongoing research in the field of photocatalysis. On the other hand, photoelectrochemical (PEC) water splitting is one of the most promising technologies for hydrogen production using solar light with the aim to build sustainable, renewable and green energy. Hematite (α-Fe2O3) is a promising material that offers both enhanced photocatalytic activity and PEC activity due to its electronic band structure, high chemical stability, great abundance, and low cost. Despite these promising properties, the application of this system is limited due to its very fast electron-hole recombination rate and low carrier mobility. Here we report the design and synthesis of a newly envisioned nanohybrid based on Fe2O3 and phthalocyanine. The nanohybrid is an essential component to reduce the charge carrier recombination rate of the system. As a result of it, the nanohybrid shows higher photocatalytic activity and acts as a better photoanode material for photoelectrochemical water splitting. The formation of the nanohybrid is established using a picosecond resolved optical technique as well as by Raman Spectroscopy. Ab-initio study on the similar modeled system has been performed to investigate the insight of various physical properties. Electron microscopy reveals a distinct change of morphology in the nanohybrid compared to pristine one. While the photocatalytic activity of the nanohybrid increased 1.5 times with respect to the pristine system, the Photoelectrochemical activity almost doubles in the hybrid system. For real-world applications, our developed nanohybrid has been deposited on an extended surface of a stainless-steel metal mesh (size 2 cm × 2 cm, pore size 150 μm × 200 μm). Such a prototype active filter containing an immobilized photocatalyst shows significant chemical filtration of MB (by a degradation process) along with a physical filtration by separating the suspended particulates from the water. DFT + U calculation results show there is a possibility of higher charge separation from PC to Fe2O3, which is the reason for the higher activity in the hybrid systems."
+
+        }
+    },
+    {
+            "id" : 11,
+            "thesis" : "Semiconducting Bi(III) Oxides For Photoelectrochemical Water Splitting Application",
+            "researcher" : "P. Hajra, S.Ghosh, D. Sariket, S.Baduri, D. Ray & C. Bhattacharya",
+            "publishdate" : "404 Not found",
+            "link": "#",
+            "toggleinfo" : {
+                "imageURL" : "Publication_toggle_image_no-11",
+                "abstractinfo" : "404 Not found"
+           
+            }
+    },
+    {
+            "year" : "2019",    
+            "id" : 12,
+            "thesis" : "Development of Cu2O thin films under the influence of electrochemical impedance: Applications in improved photoelectrochemical water reduction",
+            "researcher" : " Sanjib Shyamal, Arjun Maity, Ashis Kumar Satpati, Chinmoy. Bhattacharya",
+            "publishdate" : "Version of Record : 19 April 2019",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0013468619306656?via%3Dihub",
+            "toggleinfo" : {
+             "imageURL" : "Publication_toggle_image_no-12",
+                "abstractinfo" : "An impedance assisted novel electrochemical technique has been employed to develop copper oxide (Cu2O) thin films on F-doped tin oxide (FTO)-coated glass substrate. Application of various potentials (−0.60 to −0.40 vs (Ag/AgCl)/V) in the presence of different ranges of frequency can lead to the attainment of high-quality Cu2O crystallites. The dependency of the frequency boundary (i.e. in terms of deposition time) with structural, morphological, optical and photoelectrochemical (PEC) behavior of the Cu2O thin films have been studied. The PEC performance of the optimized Cu2O electrode significantly enhances the water reduction photocurrent to −2.9 mA cm−2. The Cu2O thin film developed in this study exhibits superior photoelectrochemical performance in comparison with the conventionally electrodeposited materials."
+
+            }
+    },
+    {
+            "id" : 13,
+            "thesis" : "Facile Photoelectrochemical Water Oxidation On Co2+-Adsorbed BiVO4 Thin Films Synthesized From Aqueous Solutions",
+            "researcher" : " Paramita Hajra, Sukumar Kundu, Arjun Maity, Chinmoy Bhattacharya",
+            "publishdate" : " Version of Record : 17 June 2019.",
+            "link": "https://doi.org/10.1016/j.cej.2019.06.014",
+            "toggleinfo" : {
+                "imageURL" : "Publication_toggle_image_no-13",
+                "abstractinfo" : "In this study, the organic solvent free ‘green synthesis’ of bismuth vanadate (BiVO4) has been described for its application in photoelectrochemical (PEC) water oxidation. BiVO4 thin films were successfully prepared through electrodeposition of Bi film on the FTO glass substrate from the aqueous bath containing Bi(NO3)3 in presence of K-Na-tartrate and dextrose; followed by thermo-chemical reaction with an aqueous solution of vanadium acetylacetonate (VO(acac)2). XRD & SEM-EDS analyses indicated the formation of scheelite monoclinic BiVO4 with seed-like morphology. UV–visible absorption spectra measured the band gap energy ~ 2.3 eV indicating visible-light activity of the photocatalyst and the Mott-Schottky analysis showed n-type nature of the semiconductor. Highest photocurrent of 1.3 mA cm−2 (at ~1 V vs Ag/AgCl) for water oxidation and 2 mA cm−2 (at ~0.6 V vs Ag/AgCl) for sacrificial (SO32−) oxidation were measured under 35 mW cm−2 illumination using the optimized thin film and the maximum incident photon to current conversion efficiency (IPCE) of 42% was obtained. The enhanced photocurrent in solar-assisted water oxidation is attributed to the formation of well covered and compact film with improved electrical continuity, shown by minimum charge transfer resistance. Adsorption of an optimized amount of Co2+ over the BiVO4 improves its catalytic properties towards oxygen evolution reaction by approximately 2.5 times, with lowering of charge transfer resistance of the material as measured through impedance analysis."
+      
+            }
+    },
+    { 
+            "id" : 14,
+            "thesis" : "Synthesis Of Oxygen Deficient Bismuth Oxide Photocatalyst For Improved Photoelectrochemical Applications",
+            "researcher" : "Paramita Hajra, Sanjib Shyamal, Harahari Mandal, Debasis Sariket, Arjun Maity, Sukumar Kundu, Chinmoy Bhattacharya*, ",
+            "publishdate" : "Version of Record : 9 January 2019.",
+            "link": "https://doi.org/10.1016/j.electacta.2019.01.009",
+            "toggleinfo" : {
+                "imageURL" : "Publication_toggle_image_no-14",
+                "abstractinfo" : "The present paper reports the effect of nitrogen modification on photoelectrochemical (PEC) water oxidation behavior of Bi2O3 semiconductor thin film. The semiconductor particles were synthesized via hydrothermal route using Bi(NO3)3 as a Bi3+ ion precursor and urea as the nitrogen source followed by drop-cast the particles and annealing the film at 600 °C. The synthesized Bi2O3 exhibited band gap energy of 3.01 eV, calculated from the UV–visibleabsorption spectrum which decreases to 2.75 eV through N-modification. Water oxidation behavior of the material has been tested through linear sweep voltammetry under periodic illumination. Highest photo-current of 180 μAcm−2 has been measured for water oxidation reaction at 0.95 V vs. Ag/AgCl, under illumination of 35 mWcm−2. N-incorporation can enhance the photocurrent up to 50% whereas the visible responsiveness of the material improves significantly as confirmed from electrochemical action spectra and UV–visible absorption spectra. The photocatalytic activity of the semiconductor particles was confirmed through decoloration of Rhodamine-B dye, by spectrophotometric measurements."
+            }
+    },
+    {
+            "id" : 15,
+            "thesis" : "Amplification of PEC hydrogen production through synergistic modification of Cu2O using cadmium as buffer layer and dopant",
+            "researcher" : "Sanjib Shyamal, Arjun Maity, Ashis Kumar Satpati, Chinmoy Bhattacharya",
+            "publishdate" : "Version of Record : 23 January 2019.",
+            "link": "https://doi.org/10.1016/j.apcatb.2019.01.017",
+            "toggleinfo" : {
+                "imageURL" : "Publication_toggle_image_no-15",
+                "abstractinfo" : "A facile single step electro-synthesis is applied to develop Cu/Cu2O/Cd(OH)2 thin films from the alkaline copper sulfate solution in presence of different levels of Cd2+. Cadmium implemented a synergistic effect, in the modification of Cu2O, through the diffusion into the bulk Cu2O and formation of Cd(OH)2 buffer layer. The photoelectrochemical (PEC) performances of the optimized Cu/Cu2O/Cd(OH)2, significantly enhance the H+ reduction photocurrent to −6.1 mA/cm2 (1.5 times than that of pure Cu/Cu2O) and the solar energy conversion efficiency also improve up to 5.8%, which is 2 fold higher than the pure semiconductor. Experimental evidences, including SEM-EDX, XRD, Raman, XPS and EIS confirm that Cd modifies Cu2O through lowering the particle size with better crystallinity (accretive working surface area), minimizing resistance, increasing carrier concentration and rapid transfer of photogenerated charge carrier, resulting in suppression in electron-hole recombination, which facilitates the improved PEC performances."
+             
+            }
+    },
+    {
+        "year" : "2018",
+        "id" : 16,
+        "thesis" : " Effect of Reinforcing Bar Microstructure on Passive Film Exposed to Simulated Concrete Pore Solution",
+        "researcher" : "R. R. Hussain, J. K. Singh, A. Alhozaimy, A. Al-Negheimish, C. Bhattacharya, R. S. Pathania, D.D.N. Singh,",
+        "publishdate" : "404 Not found",
+        "link": "https://doi.org/10.14359/51701237",
+        "toggleinfo" : {
+            "imageURL" : "Publication_toggle_image_no-16",
+            "abstractinfo" : "Use of thermomechanically treated (TMT) reinforcing bars has become popular in the concrete construction industry after their introduction in the 1980s. This can be attributed to the fact that thermomechanical treatment enhances the strength and ductility of reinforcing bars remarkably. However, limited research is available on the corrosion behavior of TMT reinforcing bars after they are embedded in concrete. To enhance knowledge and insights into this area, the authors investigated the protective properties of two types of steel reinforcement bars (reinforcing bars)—namely, tempered martensite (TM) and pearlite-ferrite (PF)—after exposing them to concrete pore solution. The microstructures of both types of reinforcing bars were investigated, and their kinetics of growth and mechanism of nucleation were recorded by employing electrochemical impedance spectroscopy and polarization. Studies reveal that protective film on the surface of steel with TM microstructure develops at a significantly higher rate and is more stable compared to that on steel with PF microstructure. This superior protective nature is attributed to the development of a compact and adherent oxide film on TM steel. A model is proposed to explain the results obtained during the study. Raman spectroscopy of passive films formed on the surface of reinforcing bars exposed to concrete pore solution supports the proposed model."
+          
+        }
+    },
+    {
+            "id" : 17,
+            "thesis" : "Eu Modified Cu2O Thin Films: Significant Enhancement In Efficiency Of Photoelectrochemical Processes Through Suppression Of Charge Carrier Recombination",
+            "researcher" : "Sanjib Shyamal, Paramita Hajra, Harahari Mandal, Aparajita Bera, Debasis Sariket, Ashis Kumar Satpati, Mikalai V. Malashchonak, Alexander V. Mazanik, Olga V. Korolik, Anatoly I. Kulak, Ekaterina V. Skorb, Arjun Maity, Eugene A. Streltsov, Chinmoy Bhattacharya",
+            "publishdate" : "Version of Record 9 November 2017.",
+            "link": "http://dx.doi.org/10.1016/j.cej.2017.11.004",
+            "toggleinfo" : {
+                "imageURL" : "Publication_toggle_image_no-17",
+                "abstractinfo" : "We propose a simple way to increase incident photon-to-current conversion efficiency (IPCE, Y) for electrodeposited p-type Cu2O films through addition of Eu(III) to the electrodeposition bath. This is the first reported enhancement of photocurrent for Cu2O modified with a rare-earth element. Our study is based on hypothesis that a large ionic radius of Eu(III) promotes its precipitation in form of inclusions of another phase, which act as getter centers leading to purification of host material from detrimental impurities and, correspondingly, to increase in lifetime of non-equilibrium charge carriers. SEM, EDX and XRD analyses indicate that addition of Eu(III) results in some increase of Cu2O crystallite size and growth of a secondary Eu containing phase without changing the Cu2O lattice parameters. Electrochemical impedance spectroscopy indicates invariance of acceptor concentration and flat band potential for Eu modified films. Remarkable increase of charge carriers’ lifetime, which manifests in the growth of Cu2O exciton photoluminescence (PL) intensity and PL decay constant, leads to increased IPCE for the Eu modified films. Optimization of Eu(III) concentration in the electrodeposition bath allows attaining the cathodic photocurrent as high as 3.2 mA cm−2 (35 mW cm−2 Xe lamp illumination), which is as ≈40% greater than that for the pure Cu2O film and corresponds to Y ≈ 100% at wavelength λ < 450 nm."
+            }
+    },
+    {
+            "id" : 18,
+            "thesis" : "Improvement Of Photocatalytic Activity Of Surfactant Modified In2O3 Towards Environmental Remediation",
+            "researcher" : "Debasis Sariket, Sanjib Shyamal, Paramita Hajra, Harahari Mandal, Aparajita Bera,  Arjun Maitybc,  Chinmoy Bhattacharya",
+            "publishdate" : "First Published : 04 Jan 2018",
+            "link": "https://doi.org/10.1039/C7NJ04645F",
+            "toggleinfo" : {
+                "imageURL" : "Publication_toggle_image_no-18",
+                "abstractinfo" : "The present paper describes photocatalytically active In2O3 thin films developed using a direct drop-cast method on F-doped tin oxide (FTO) coated glass substrates using 10 mM In(NO3)3 dissolved in ethylene glycol containing 0–0.0125 M Triton-X 100 (TX-100) surfactant and annealed in air at 600 °C to obtain the desired metal oxide. The absorption spectrum measured the direct band gap of the surfactant modified In2O3 as 3.48 eV along with an indirect gap of 2.69 eV indicating near visible absorptivity of the materials, which was established through linear sweep voltammetry under periodic UV-Vis and visible irradiation for oxidation of water and a sacrificial reagent, SO32−. The electrochemical impedance spectroscopic (Mott–Schottky) analysis confirms n-type semiconductivity for these materials. Addition of an optimized level of 0.01 M TX-100 surfactant to the precursor solution improves the photoelectrochemical performance of the film to 2.3 fold. The electrochemical action spectra indicate a maximum value of the incident photon to current conversion efficiency (IPCE) for the 0.01 M surfactant modified In2O3 of 28% and the corresponding absorbed photon to current conversion efficiency (APCE) of 40%. Addition of surfactant to the In3+ precursor solution results in uniformly distributed particle growth on the surface with better crystallinity."
+            }
+    },
+    {
+            "id" : 19,
+            "thesis" : "Halide?Modulated Functionality Of Wide Band Gap Zinc Oxide Semiconductor Nanoparticle",
+            "researcher" : "Tuhin Kumar Maji, Prasenjit Kar, Dr. Harahari Mandal, Dr. Chinmoy Bhattacharya, Dr. Debjani Karmakar, Prof. Samir Kumar Pal",
+            "publishdate" : "First published : 19 June 2018",
+            "link": "https://doi.org/10.1002/slct.201801272",
+            "toggleinfo" : {
+                "imageURL" : "Publication_toggle_image_no-19",
+                "abstractinfo" : "Surface modification of inorganic nanomaterials using different ions is well-known to induce significant modulation in functionality of the nanoparticles (NP), which improves tuning their relevant properties for suitable applications in the field of nanotechnology. Here, we report synthesis and surface modification of a model inorganic wide bandgap semiconductor ZnO NP by halide ions by simple precipitation method and demonstrate that proximity of various halide ions to the NP modifies their electronic properties. It is interesting to note that such surface modulation has little impact on its morphology, while significantly influencing their applications in photocatalytic activity or magnetism. Indeed, the halide attached ZnO NP displays a large reduction of defect state emission. Various microscopic and spectroscopic tools (including picosecond resolved technique) were used to characterize and understand the key role of the halide ions to modulate the light induced charge separation in ZnO NP. Picosecond resolved fluorescence spectra unveil a significant quenching, implying an electronic cross-talking between the NP and the attached halide ions. Magnetic measurements indicate that attachment of a suitable halide ion introduces room temperature ferromagnetism in this system. Finally, the photocatalytic activity of the ZnO NP for the photodegradation of a model pollutant, methyl orange was evaluated under UV light irradiation. Halide ZnO is anticipated to be a very promising photocatalytic agent; hence it can be used to cleanup environmental pollution. First principles analysis has been performed to understand the modulation of electronic properties like photocatalysis and magnetism in halide attached nanosystem. The experimental behavior resembles nicely with theoretical results."
+              
+            }
+    },
+    {
+            "id" : 20,
+            "thesis" : "Solvent Effects On The Photoelectrochemical Water Oxidation Behaviour Of TiO2 Semiconductors",
+            "researcher" : "Aparajita Bera, Paramita Hajra, Sanjib Shyamal, Harahari Mandal, Debasis Sariket, Sukumar Kundu, Sampa Mandal, Chinmoy Bhattacharya",
+            "publishdate" : " Version of Record : 18 April 2018.",
+            "link": "https://doi.org/10.1016/j.matpr.2017.11.014",
+            "toggleinfo" : {
+                "imageURL" : "Publication_toggle_image_no-20",
+                "abstractinfo" : "The present report describes the synthesis and characterization of TiO2 thin film semiconductor using titanium isopropoxide dispersed in different solvents like ethylene glycol (EG), glycerol, acetonitrile, dimethyl formamide, dimethyl sulphoxide and water followed by annealing at 600°C in air on the In-doped tin oxide (ITO) coated glass. UV-vis absorption spectrum measures the band gap energy 3.1 eV, indicating UV absorptivity of the materials, whereas XRD analysis reveals preferential growth of anatase form of TiO2 with tetragonal body-centred cubic lattice. The material developed from EG recorded the highest photoelectrochemical water oxidation current ∼400 μA cm-2 at 0.8 V vs. Ag/AgCl, with 17% incident photon to current conversion efficiency (IPCE) and ∼22% absorbed photon to current conversion efficiency (APCE)."
+ 
+            }
+    },
+    {
+            "year" : "2017",    
+            "id" : 21,
+            "thesis" : "Sensitized ZnO Nanorod Assemblies To Detect Heavy Metal Contaminated Phytomedicines: Spectroscopic And Simulation Studies",
+            "researcher" : "Damayanti Bagchi, Tuhin Kumar Maji,  Samim Sardar,Peter Lemmens, Chinmoy Bhattacharya, Debjani Karmakare, Samir Kumar",
+            "publishdate" : "First published : 20 Dec 2016",
+            "link": "https://doi.org/10.1039/C6CP08016B",
+            "toggleinfo" : {
+                "imageURL" : "Publication_toggle_image_no-21",
+                "abstractinfo" : "The immense pharmacological relevance of the herbal medicine curcumin including anti-cancer and anti-Alzheimer effects, suggests it to be a superior alternative to synthesised drugs. The diverse functionalities with minimal side effects intensify the use of curcumin not only as a dietary supplement but also as a therapeutic agent. Besides all this effectiveness, some recent literature reported the presence of deleterious heavy metal contaminants from various sources in curcumin leading to potential health hazards. In this regard, we attempt to fabricate ZnO based nanoprobes to detect metal conjugated curcumin. We have synthesized and structurally characterized the ZnO nanorods (NR). Three samples namely curcumin (pure), Zn–curcumin (non-toxic metal attached to curcumin) and Hg–curcumin (toxic heavy metal attached to curcumin) were prepared for consideration. The samples were electrochemically deposited onto ZnO surfaces and the attachment was confirmed by cyclic voltammetry experiments. Moreover, to confirm a molecular level interaction picosecond-resolved PL-quenching of ZnO NR due to Förster Resonance Energy Transfer (FRET) from donor ZnO NR to the acceptor curcumin moieties was employed. The attachment proximity of ZnO NR and curcumin moieties depends on the size of metals. First principles analysis suggests a variance of attachment sites and heavy metal Hg conjugated curcumin binds through a peripheral hydroxy group to NR. We fabricated a facile photovoltaic device consisting of ZnO NR as the working electrode with Pt counter electrode and iodide-triiodide as the electrolyte. The trend in photocurrent under visible light illumination suggests an enhancement in the case of heavy metal ions due to long range interaction and greater accumulation of charge at the active electrode. Our results provide a detailed physical insight into interfacial processes that are crucial for detecting heavy-metal attached phytomedicines and are thus expected to find vast application as sensors for the detection of selective metal contaminants."
+            }
+    },
+    {
+            "id" : 22,
+            "thesis" : "Photo-Induced Electronic Properties In Single Quantum Well System: Effect Of Excitonic Lifetime",
+            "researcher" : "Jayita Patwari1, Hemant Ghadi2, Samim Sardar1, Jashan Singhal2, Binita Tongbram2, Sanjib Shyamal3, Chinmoy Bhattacharya3, Subhananda Chakrabarti2 and Samir Kumar Pal1",
+            "publishdate" : "Published 24 January 2017",
+            "link": "https://iopscience.iop.org/article/10.1088/2053-1591aa5373",
+            "toggleinfo" : {
+                "imageURL" : "Publication_toggle_image_no-22",
+                "abstractinfo" : "In the present study, we have established a correlation between the photo-induced electronic phenomena and excited state lifetime of the photo generated carriers in double barrier Al0.3Ga0.7As/GaAs quantum well (QW) structures. The excited state lifetime was measured experimentally by picosecond time resolved photoluminescence spectroscopy for two samples with different well widths (5.3 nm and 16.5 nm). The faster nonradiative decay time of the narrower well can be attributed to the facile escape of electrons from well to barrier due to lower associated energy compared to that of the thicker well which resembles the simulated results of the energy level distribution. The proposed mechanism of carrier escape is further proven from the higher value of unconventional excitonic capacitance value in the thicker well, measured by impedance spectroscopy. The dependence of photo-induced capacitance on well thickness is explained by the lifetime of the excited carriers in this study. Dependence of the photo-generated capacitance (C) on externally applied bias voltage (V) was also studied to quantitatively establish a proportional relation between the carrier holding capacity of the well and the excitonic lifetime. The higher accumulation of charge and lower ground state energy of the thicker well is evident from the higher tunnelling current found for the same in the photocurrent (I) versus voltage (V) measurement. Thus the escape of electrons from the well to barrier is the key factor affecting the photo generated charge accumulation and its holding capacity which in turn influences the device performances."
+            }
+    },
+    {
+            "id" : 23,
+            "thesis" : "Temperature Controlled Fabrication Of Chemically Synthesized Cubic In2O3 Crystallites For Improved Photoelectrochemical Water Oxidation",
+            "researcher" : "Debasis Sariket, Sanjib Shyamal, Paramita Hajra, Harahari Mandal, Aparajita Bera, Arjun Maity, , Sukumar Kundu d,  Chinmoy Bhattacharya",
+            "publishdate" : "Version of Record : 18 August 2017.",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0254058417306260",
+            "toggleinfo" : {
+                "imageURL" : "Publication_toggle_image_no-23",
+                "abstractinfo" : "The present paper describes the development of indium (III) oxide (In2O3) semiconductor (SC) through chemical bath synthesis using In(NO3)3 as a precursor followed by annealing in air at various high temperatures (600–900 °C). Thin films were prepared over F-doped tin oxide (FTO) coated glass substrate using suspension of the SC powders in ethylene glycol followed by drying at 600 °C. Absorption spectrum measures the direct band gap of In2O3 as 3.60 eV along with an indirect gap of 2.78 eV. Scanning electron microscopy reveals the agglomerated nature of In2O3 particle whereas X-ray diffraction analysis confirms presence of cubic crystallites with preferably (222) orientation. With the gradual rise in annealing temperature (600–900 °C), the size of the crystallites as well as their quality improves, as evident through transmission electron microscopy and PL emission spectra. The In2O3 semiconductor thin films exhibit significant photoelectrochemical activity and long term stability in terms of oxygen evolution reaction from water. The sample annealed at an optimized temperature of 800 °C exhibits the highest photo-current of 1.15 mA cm−2 for H2O → O2 oxidation reaction (in 0.1 M Na2SO4 - pH7, PBS), at 1.51 V vs. RHE (1.23 V vs. NHE) under illumination of 35 mW cm−2. Electrochemical impedance spectra (Mott-Schottky) analysis confirms n-type conductivity for the semiconductors, whereas the action spectra suggest ∼40% incident photon to current conversion efficiency (IPCE) for the optimized materials."
+            }
+    },
+    {
+            "year" : "2016",    
+            "id" : 24,
+            "thesis" : "Photocurrent switching effect on platelet-like BiOI electrodes: influence of redox system, light wavelength and thermal treatment",
+            "researcher" : "M.E. Kazyrevich, M.V. Malashchonak, A.V. Mazanik, E.A. Streltsov, A.I. Kulak, C. Bhattacharya",
+            "publishdate" : "Version of Record 15 January 2016.",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0013468615311531",
+            "toggleinfo" : {
+                "imageURL" : "Publication_toggle_image_no-24",
+                "abstractinfo" : "The electrochemically deposited BiOI films with a thickness of several hundreds nanometers and composed of thin (about 30 nm) platelet-like crystallites demonstrate the photocurrent switching (sign inversion) in solutions containing various redox systems (I3−/I, quinone/hydroquinone, [Fe(CN)6]3−/[Fe(CN)6]4−). The potential of photocurrent switching (Esw) correlates with the equilibrium potential of the redox system and is determined by the exchange currents of anodic and cathodic processes (both dark and photoinduced). The possibility of both photocurrents observations is related to a small thickness of platelets that leads to insignificance of potential drop across them. As a result, separation of photocharges is determined by their capture at the BiOI-electrolyte interface rather than by a built-in space charge layer. High rate of photoelectrons and photoholes capture by electrolyte particles causes the diffusion-limited nature of photocurrent which largely depends on surface concentrations of oxidized and reduced forms of the redox system. Incident photon-to-current conversion efficiency increases monotonically with the wavelength decrease reaching sufficiently high values (∼30% at λ = 370 nm). Photocurrent sign inversion with the change of the incident light wavelength indicates that in BiOI layers deposited on ITO, the electric field originating from ITO/electrolyte contact is localized only near the BiOI/ITO interface, whereas most of the BiOI platelet network remains free of this field. Photocurrent spectra are highly influenced by heat treatment demonstrating a decrease in recombination losses in the case of annealing in an oxidizing (O2) atmosphere."
+               
+            }
+    },
+    {
+            "id" : 25,
+            "thesis" : "Enhanced photovoltage in DSSCs: synergistic combination of a silver modified TiO2 photoanode and a low cost counter electrode",
+            "researcher" : " Samim Sardar,  Srabanti Ghosh, Hynd Remita, Prasenjit Kar, Bo Liu, Chinmoy Bhattacharya, Peter Lemmenscd, Samir Kumar Pal",
+            "publishdate" : "First published : 29 Mar 2016",
+            "link": "https://pubs.rsc.org/en/content/articlelanding/2016/ra/c6ra01863g",
+            "toggleinfo" : {
+                "imageURL" : "Publication_toggle_image_no-25",
+                "abstractinfo" : "In this study, we have tailored both the active electrode with silver modified TiO2 (Ag–TiO2) as well as the counter electrode (CE) with Pt–reduced graphene oxide (Pt@RGO) nanocomposites to realize efficient and low cost devices. The synergistic combination of both modified electrodes leads to an improved light to electrical energy conversion with an overall efficiency of 8%. An increase in the photovoltage (VOC) of ∼16% (0.74 to 0.86 V) is achieved using Ag–TiO2 in comparison to the bare TiO2. This can be attributed to the shifting of the quasi-Fermi level of the TiO2 photoanode close to the conduction band in the presence of Ag nanoparticles (NPs) due to the formation of the Schottky barrier. On the other hand, the facile synthesis of Pt NPs on RGO nanosheets by a photo-reduction method without using chemical reducing or stabilizing agents demonstrates a higher efficiency than Pt as a CE due to the cooperation of the catalytic activity of Pt and the high electron conductivity of the RGO as a stable supporting material having more interfacial active sites. The quantity of Pt in the Pt@RGO nanocomposites is 10 times lower than in the Pt CE which reduces the cost and makes it viable for large scale commercial utilization."
+            }
+    },
+    {
+            "id" : 26,
+            "thesis" : "Development of ternary iron vanadium oxide semiconductors for applications in photoelectrochemical water oxidation",
+            "researcher" : " Harahari Mandal, Sanjib Shyamal, Paramita Hajra,   Aparajita Bera, Debasis Sariket, Sukumar Kundub Chinmoy Bhattacharya",
+            "publishdate" : "First published : 23 Dec 2015",
+            "link": "https://pubs.rsc.org/en/content/articlelanding/2016/ra/c5ra22586h ",
+            "toggleinfo" : {
+                "imageURL" : "Publication_toggle_image_no-26",
+                "abstractinfo" : "Herein, we report the synthesis of Fe–V-oxides via the drop casting of metal precursor solutions in different proportions onto an indium tin oxide (ITO) coated glass followed by annealing in air at 500 °C for 3 h. UV-vis spectroscopy of the Fe–V-oxides indicates absorption due to ‘direct’ and ‘indirect’ band gaps, although Fe-oxide shows a direct band gap nature. Scanning electron microscopy-energy dispersive X-ray (SEM-EDX) and X-ray diffraction (XRD) studies reveal different surface morphologies with variable crystalline phases for the Fe2O3, FeVO4, FeV2O4 and Fe2VO4 semiconductors. The photoelectrochemical (PEC) water oxidation reaction over the different materials reveals that the FeV2O4 semiconductor exhibits the maximum photocurrent of 0.18 mA cm−2 at an applied bias of +1.0 V (vs. Ag/AgCl) under the illumination of 100 mW cm−2 compared to the other Fe2O3, FeVO4 and Fe2VO4 semiconductors. Electrochemical impedance spectroscopic (Mott–Schottky) analysis confirms n-type semiconductivity for all the materials with highest donor density, in the order of 2.7 × 1020 cm−3, for the FeV2O4 thin film, and PL spectra are useful for measuring the separation efficiency of the photo-generated charge carriers. Chronoamperometric studies under constant illumination of the best semiconductor (FeV2O4) indicate the significant stability of the material, and photoelectrochemical action spectra demonstrate 22% incident photon to current conversion efficiency (IPCE) and 60% absorbed photon to current conversion efficiency (APCE)."
+            }
+    },
+    {
+            "id" : 27,
+            "thesis" : "Benign role of Bi on an electrodeposited Cu2O semiconductor towards photo-assisted H2generation from water",
+            "researcher" : " Sanjib Shyamal, Paramita Hajra, Harahari Mandal,   Aparajita Bera, Debasis Sariket, Ashis Kumar Satpati, Sukumar Kundu  Chinmoy Bhattacharya",
+            "publishdate" : "First published : 13 May 2016 ",
+            "link": "https://pubs.rsc.org/en/content/articlelanding/2016/ta/c6ta03237k",
+            "toggleinfo" : {
+                "imageURL" : "Publication_toggle_image_no-27",
+                "abstractinfo" : "In this paper we report a Bi modified Cu2O semiconductor (SC) for improved photoelectrochemical (PEC) hydrogen (H2) production from aqueous solution. For the first time, we found out that the PEC performance of SC thin films improve dramatically by ∼2 fold when Bi nanoparticles (BiNPs) are added in the form of a suspension or act as a matrix coated over ITO glass during electrodeposition of Cu2O. On the other hand, the addition of an optimized amount of Bi3+ ions (10 nM) in the deposition bath also facilitated the hydrogen evolution reaction over Cu2O. Maximum photocurrents for the Cu2O film developed from these three different conditions are: −5.2 mA cm−2 for ITO/BiNPfilm/Cu2O, −4.9 mA cm−2 for ITO/BiNPsus/Cu2O, and −3.7 mA cm−2 for ITO/Biion/Cu2O, whereas that for pure Cu2O on ITO appears as −2.6 mA cm−2. This is the highest reported photocurrent of Cu2O on any conducting glass substrates without employing any hydrogen evolution catalyst. SEM and XRD studies of the films indicate that the materials are composed of “cubic” crystallites of preferential (111) orientation, and their size varies from 18–26 nm. Addition of Bi modifies the band position with a decrease in the bandgap energy of Cu2O. Smaller charge-transfer resistance (Rct) and ohmic resistance (Rs) facilitate the H2 evolution reaction over the ITO/BiNPfilm/Cu2O film, whereas its lowest carrier density suggests minimum defect sites, i.e. better crystallinity of the film matrix."
+            }
+    },
+    {
+        "year" : "2015",    
+        "id" : 28,
+            "thesis" : "Effect of Substrates on the Photoelectrochemical Reduction of Water over Cathodically Electrodeposited p-Type Cu2O Thin Films",
+            "researcher" : " Sanjib Shyamal, Paramita Hajra, Harahari Mandal, Jitendra Kumar Singh, Ashis Kumar Satpati, Surojit Pande, Chinmoy Bhattacharya",
+            "publishdate" : "Publication Date : August 5, 2015",
+            "link": "https://pubs.acs.org/doi/10.1021/acsami.5b04116",
+            "toggleinfo" : {
+                "imageURL" : "Publication_toggle_image_no-28",
+                "abstractinfo" : "In this study, we demonstrate development of p-Cu2O thin films through cathodic electrodeposition technique at constant current of 0.1 mA/cm2 on Cu, Al, and indium tin oxide (ITO) substrates from basic CuSO4 solution containing Triton X-100 as the surfactant at 30–35 °C. The optical and morphological characterizations of the semiconductors have been carried out using UV–vis spectroscopy, X-ray diffraction (XRD), scanning electron microscopy (SEM), and Raman spectroscopy. The band gap energy of ∼2.1 eV is recorded, whereas SEM reveals that the surface morphology is covered with Cu2O semiconductors. XRD analyses confirm that with change in substrate, the size of Cu2O “cubic” crystallites decreases from ITO to Al to Cu substrates. Photoelectrochemical characterizations under dark and illuminated conditions have been carried out through linear sweep voltammetry, chronoamperometry and electrochemical impedance spectroscopic analysis. The photoelectrochemical reduction of water (H2O → H2) in pH 4.9 aqueous solutions over the different substrates vary in the order of Cu > Al > ITO. The highest current of 4.6 mA/cm2 has been recorded over the Cu substrate even at a low illumination of 35 mW/cm2, which is significantly higher than the values (2.4 mA/cm2 on Au coated FTO or 4.07 mA/cm2 on Cu foil substrate at an illumination of 100 mW/cm2) reported in literature."
+               
+            }
+    },
+    {
+            "id" : 29,
+            "thesis" : "Optimization of Triton-X 100 surfactant in the development of Bismuth Oxide thin film semiconductor for improved photoelectrochemical water oxidation behavior",
+            "researcher" : "Paramita Hajra, Sanjib Shyamal, Aparajita Bera, Harahari Mandal, Debasis Sariket, Malay Kundu, Surojit Pande, Chinmoy Bhattacharya",
+            "publishdate" : " Version of Record : 4 November 2015.",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0013468615306484",
+            "toggleinfo" : {
+                "imageURL" : "Publication_toggle_image_no-29",
+                "abstractinfo" : "Photocatalytically active bismuth oxide thin films have been developed through direct drop-casting method on In-doped tin oxide (ITO) coated glass substrates using 5 mM Bi(NO3)3 dissolved in ethylene glycol containing 0–4% Triton-X 100 (TX-100) surfactant and annealed in air at 600 °C to obtain the desired metal oxide. The diffuse reflectance spectra of the surfactant modified bismuth oxide reveals the band gap energy as 2.95 eV indicating near visible absorptivity of the material which have been confirmed through linear sweep voltammetry under periodic UV–Vis and visible irradiation for oxidation of water and sacrificial reagent, SO32−. Electrochemical impedance spectroscopic Mott–Schottky analysis confirms n-type semiconductivity for these materials. Addition of an optimized level of 2% TX-100 surfactant to the precursor solution improves the photoelectrochemical performance of the film up to two times. The electrochemical action spectra indicates a maximum value of the incident photon to current conversion efficiency (IPCE) for the 2% surfactant modified bismuth oxide as 28% and the corresponding absorbed photon to current conversion efficiency (APCE) as 44%. Addition of surfactant to Bi3+ precursor solution leads to growth of uniformly distributed particles over the surface with better crystallinity."
+            }
+    },
+    {
+            "year" : "2014",    
+            "id" : 30,
+            "thesis" : "Improved photoelectrochemical water oxidation using wurtzite ZnO semiconductors synthesized through simple chemical bath reaction",
+            "researcher" : "Harahari Mandal, Sanjib Shyamal, Paramita Hajra, Biswanath Samanta, Pragati Fageria, Surojit Pande, Chinmoy Bhattacharya",
+            "publishdate" : "Available online : 8 July 2014.",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0013468614011943",
+            "toggleinfo" : {
+                "imageURL" : "Publication_toggle_image_no-30",
+                "abstractinfo" : "In this paper we demonstrate, the drop-casting of chemically synthesized ZnO nanoparticles over ITO coated glass substrate to obtain the good-quality semiconductor thin film. UV-visible absorption spectrum of the ZnO film indicates the direct band gap energy of 3.21 eV. Scanning electron microscopy confirms the presence of small particles of ∼30 nm dimension whereas X-ray diffraction analysis indicates the presence of hexagonal wurtzite ZnO structure. Maximum photoelectrochemical water oxidation current of 440 μA cm−2 has been recorded even at a low overpotential of 0.25 V vs. Ag/AgCl reference electrode under minimum illumination of 35 mW cm−2, when tested in 0.1 M Na2SO4 solutions (pH7). The incident photon to current conversion efficiency (IPCE) and absorbed photon to current conversion efficiency (APCE) measurements reflect high photo-conversion efficiencies as 35% and 65%, respectively, when measured with the semiconductor. Photocatalytic activity of the ZnO semiconductors has been measured spectrophotometrically using aqueous Rhodamine-B solution under same Xe-light irradiation."
+            }
+    },
+    { 
+            "id" : 31,
+            "thesis" : "Photocatalytic activity of Bi2O3 nanocrystalline semiconductor developed via chemical-bath synthesis",
+            "researcher" : "Paramita Hajra, Sanjib Shyamal, Harahari Mandal, Pragati Fageria, Surojit Pande, Chinmoy Bhattacharya",
+            "publishdate" : "Available online : 23 January 2014.",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0013468614001352",
+            "toggleinfo" : {
+                "imageURL" : "Publication_toggle_image_no-31",
+                "abstractinfo" : "The present paper reports the development of semiconductor thin film by drop-casting Bi2O3 particles, prepared through chemical bath method using Bi(NO3)3 as a precursor, followed by annealing at 600 °C. Band gap energy of 2.9 eV as calculated from the edge of the absorption spectra, indicates near visible absorptivity of the materials. Activity of the materials has been tested through linear sweep voltammetry under chopped illumination in 0.1 M Na2SO4 solution for water oxidation and in 0.1 M Na2SO3 solution for sacrificial oxidation. Highest photo-current density of 320 μAcm−2 has been measured for water oxidation reaction at 0.8 V vs. Ag/AgCl, under illumination of 35mWcm−2. Electrochemical impedance and action spectra suggest significant photon to current conversion efficiencies of the material under UV-vis as well as for visible illumination. The efficacy of the semiconductor particles for decoloration of Rhodamine-B dye has been carried out spectrophotometrically, and it is observed that, within 40mins of exposure to light, the color of the dye faded significantly in presence of the photocatalyst."
+            }
+    },
+    {
+        "year" : "2013",    
+        "id" : 32,
+            "thesis" : "Rapid screening by scanning electrochemical microscopy (SECM) of dopants for Bi2WO6 improved photocatalytic water oxidation with Zn doping",
+            "researcher" : "Chinmoy Bhattacharya, Heung Chan Lee, and Allen J. Bard",
+            "publishdate" : "Publication Date : April 10, 2013",
+            "link": "https://pubs.acs.org/doi/10.1021/jp308629q",
+            "toggleinfo" : {
+                "imageURL" : "Publication_toggle_image_no-32",
+                "abstractinfo" : "Bi2WO6 microelectrode arrays on FTO glass substrates were fabricated by a picoliter solution dispensing technique using Bi(NO3)3 as the Bi source and (NH4)6H2W12O40 as the W source in ethylene glycol. The scanning electrochemical microscope modified by using an optical fiber in place of an ultramicroelectrode was employed for rapid screening of the Bi2WO6 arrays and to investigate the effect of 12 different dopants on the photocatalytic oxidation of SO32–. Among the different dopant compositions, addition of 12% Zn showed a photocurrent enhancement of up to 80% compared with that of the pure Bi2WO6. This result was further confirmed with bulk electrode studies for SO32– and water oxidation. UV–vis absorption, electrochemical impedance spectroscopy, scanning electron microscopy, and X-ray diffraction studies were carried out with the photocatalysts to elucidate the role of Zn in the bulk semiconductors. Absorbed photon-to-current efficiency and incident photon-to-current efficiency determinations further confirm the enhancement of photoelectrochemical behavior upon addition of Zn to Bi2WO6 photocatalysts."
+               
+            }
+    }
+]

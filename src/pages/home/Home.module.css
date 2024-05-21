@@ -1,0 +1,35 @@
+.researchoverviewHeading{
+    font-family: Poppins;
+    font-weight: 900;
+    text-shadow: var(--text-shadow);
+    color: var(--black);
+    font-size: 2.5rem;
+    text-align: center;
+    position: relative;
+    bottom: 7rem;
+ 
+}
+
+
+@media screen and (max-width: 1199px){
+    .researchoverviewHeading{
+      margin-top: 3rem;
+    }
+}
+@media screen and (max-width: 991px){
+    .researchoverviewHeading{
+    position: relative;
+    top: -1rem;
+}
+}
+
+@media screen and (max-width: 456px){
+    .researchoverviewHeading{
+        font-size: 1.7rem;
+    }
+}
+@media screen and (max-width: 196px){
+    .researchoverviewHeading{
+        font-size: 1rem;
+    }
+}

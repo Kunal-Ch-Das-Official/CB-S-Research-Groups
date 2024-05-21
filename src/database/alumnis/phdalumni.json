@@ -1,0 +1,56 @@
+[
+    {
+        "id" : 1,
+        "imageUrl" : "phd_alumni_no-1.webp",
+        "name" : "Dr. Sanjib Shyamal",
+        "msc" : "MSC : University of Calcutta",
+        "bsc" : "BSC : Charuchandra College (University of Calcutta)",
+        "contact" : "CONTACT : 9123681197",
+        "email" : "sanjibshyamal89@gmail.com"
+    },
+    {
+        "id" : 2,
+        "imageUrl" : "phd_alumni_no-2.webp",
+        "name" : "Dr. Paramita Hazra",
+        "msc" : "MSC : University of Calcutta",
+        "bsc" : "BSC : Not Known",
+        "contact" : "CONTACT : 9830758022",
+        "email" : "paromitahazra0108@gmail.com"
+    },
+    {
+        "id" : 3,
+        "imageUrl" : "phd_alumni_no-3.webp",
+        "name" : "Dr. Harahari Mandal",
+        "msc" : "MSC : Midnapore College (Vidyasagar University)",
+        "bsc" : "BSC : Not Known",
+        "contact" : "CONTACT : 9830476480",
+        "email" : "Not Available"
+    },
+    {
+        "id" : 4,
+        "imageUrl" : "phd_alumni_no-4.webp",
+        "name" : "Dr. Debasis Sariket",
+        "msc" : "MSC : Banaras Hindu University",
+        "bsc" : "BSC : Narasinha Dutt College (University of Calcutta)",
+        "contact" : "CONTACT : 9874428808",
+        "email" : "debasissariket@gmail.com"
+    },
+    {
+        "id" : 5,
+        "imageUrl" : "phd_alumni_no-5.webp",
+        "name" : "Dr. Jitendra Kumar Singh",
+        "msc" : "MSC : Veer Bahadur Singh Purvanchal University (U.P. state university)",
+        "bsc" : "BSC : Veer Bahadur Singh Purvanchal University (U.P. state university)",
+        "contact" : "CONTACT : Not Available",
+        "email" : "Not Available"
+    },
+    {
+        "id" : 6,
+        "imageUrl" : "phd_alumni_no-6.webp",
+        "name" : "Dr. Mukul Hazra",
+        "msc" : "MSC : IIEST, Shibpur",
+        "bsc" : "BSC : Midnapore College (Vidyasagar University)",
+        "contact" : "CONTACT : Not Available",
+        "email" : "Not Available"
+    }
+]

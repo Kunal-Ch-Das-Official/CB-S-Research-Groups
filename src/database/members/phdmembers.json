@@ -1,0 +1,38 @@
+[
+    {
+        "id" : 1,
+        "imageUrl" : "phd_member_no-1.webp",
+        "name" : "Swarnendu Baduri",
+        "msc" : "MSC : University of Kalyani",
+        "bsc" : "BSC : Shibpur  Dinobundhoo institution college (University of Calcutta)",
+        "contact" : "CONTACT : 7980071697",
+        "email" : "swarnendubaduri3@gmail.com"
+    },
+    {
+        "id" : 2,
+        "imageUrl" : "phd_member_no-2.webp",
+        "name" : "Sangeeta  Ghosh",
+        "msc" : "MSC : Bidhannagar Govt. College (West Bengal State University)",
+        "bsc" : "BSC : Dinabandhu Andrews College (University of Calcutta)",
+        "contact" : "CONTACT : 9088391908",
+        "email" : "sangeetachem90@gmail.com"
+    },
+    {
+        "id" : 3,
+        "imageUrl" : "phd_member_no-3.webp",
+        "name" : "Debasish Ray",
+        "msc" : "MSC : RKMVCC Rahara (West Bengal State University)",
+        "bsc" : "BSC : Rishi Bankim Chandra College (West Bengal State University)",
+        "contact" : "CONTACT : 9330714916",
+        "email" : "debasishray888@gmail.com"
+    },
+    {
+        "id" : 4,
+        "imageUrl" : "phd_member_no-4.webp",
+        "name" : "Himansu Sekhar Sahoo",
+        "msc" : "MSC : IIEST, Shibpur ",
+        "bsc" : "BSC : BJB AUTONOMOUS COLLEGE (UTKAL UNIVERSITY, ODISHA)",
+        "contact" : "CONTACT : 9776169833",
+        "email" : "sahoohimansusekhar8@gmail.com"
+    }
+]

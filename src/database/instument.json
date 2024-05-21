@@ -1,0 +1,42 @@
+{
+    "instumentGrid1" : {
+        "firstTitle" : "Electrochemical workstation (Potentiostat-Galvanostat)",
+        "firstParagraph" : "Electrochemical Impedance analyzer (EIS) – AUTOLAB – 302; Metrohm Autolab; Switzerland",
+        "secondTitle" : "Electrochemical workstation (Potentiostat-Galvanostat)",
+        "secondParagraph" : "Electrochemical Impedance analyzer (EIS) – AUTOLAB –204; Metrohm Autolab; Switzerland"
+    },
+    "instumentGrid2" : {
+        "firstTitle" : "Electrochemical workstation (Potentiostat)",
+        "firstParagraph" : "Electrochemical Impedance analyzer (EIS) – CHI-650E; CH Instruments, USA.",
+        "secondTitle" : "Electrochemical workstation (Potentiostat)",
+        "secondParagraph" : "CHI-601E; CH Instruments, USA."
+    },
+    "instumentGrid3" : {
+        "firstTitle" : "Spin coating unit and Successive ionic layer adsorption and reaction (SILAR)",
+        "firstParagraph" : "",
+        "secondTitle" : "Chemical Syntheis Reactor (Microwave-assisted)",
+        "secondParagraph" : "Nuwav-Pro; Nutech."
+    },
+    "instumentGrid4" : {
+        "firstTitle" : "Photochemical Reactor (Xenon lamp assistes) ",
+        "firstParagraph" : "Tech Instro",
+        "secondTitle" : "Programmable Muffle & Tube furnace with controlled atmosphere ",
+        "secondParagraph" : "(working temperature upto 1000oC)."
+    },
+    "instumentGrid5" : {
+        "firstTitle" : "Vacuum oven ",
+        "firstParagraph" : "(working temperature upto 150oC). ",
+        "secondTitle" : "Scanning electrochemical microscope (SECM)",
+        "secondParagraph" : "Sensolytics, Germany"
+    },
+    "instumentGrid6" : {
+        "firstTitle" : "Programmable pico-litre solution dispenser ",
+        "firstParagraph" : "Sensolytics",
+        "secondTitle" : "High power (300W) Xenon lamp for ‘white light’ source",
+        "secondParagraph" : "Excelitas, USA"
+    },
+    "instumentGrid7" : {
+        "firstTitle" : "High speed centrifuge ",
+        "firstParagraph" : "REMI"
+    }
+}

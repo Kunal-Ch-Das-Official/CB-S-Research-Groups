@@ -1,0 +1,29 @@
+.backgroundCss{
+    width: 100%;
+    height: 80vh;
+background-color: #6765fe;
+background-image: linear-gradient(335deg, #ffef2f 23px, transparent 23px),
+linear-gradient(155deg, #ded78c 23px, transparent 23px),
+linear-gradient(335deg, #ffef2f 23px, transparent 23px),
+linear-gradient(155deg, #ded78c 23px, transparent 23px);
+background-size: 58px 58px;
+background-position: 0px 2px, 4px 35px, 29px 31px, 34px 6px;
+}
+
+.title{
+    color: var(--black);
+    font-size: 3.2rem; 
+    font-weight: bolder;
+    font-family: Poppins;
+    font-weight: bolder;
+    display: flex;
+    flex-direction: column;
+    padding-top: 10rem;
+    text-align: center;
+    text-shadow: var(--text-shadow);
+}
+@media screen and (max-width: 450px){
+    .title{
+        font-size: 2rem;
+    }
+}

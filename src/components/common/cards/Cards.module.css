@@ -1,0 +1,56 @@
+.member{
+  margin: 3rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.nameST{
+    border: 1px solid #949494;
+    padding: .7rem 1rem;
+    font-weight: 900;
+    border-radius: 10px;
+    
+}
+.nameST:hover{
+    background: var(--hover-color);
+    box-shadow: var(--button-shadow);
+    border: none;
+    outline: var(--outline);
+    
+    
+
+}
+.memberImg{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    margin-bottom: 5rem; 
+}
+.mainImg{
+    border-radius: 20px;
+}
+.span{
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+}
+.mail{
+    text-transform: lowercase;
+}
+
+
+@media screen and (max-width: 350px){
+.span{
+    width: 280px;
+    font-size: .7rem;
+}
+.nameST{
+    font-size: 1rem;
+}
+.mail{
+    font-size: .7rem;
+}
+.Phone{
+    font-size: .7rem;
+}
+}

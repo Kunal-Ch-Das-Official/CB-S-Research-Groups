@@ -1,0 +1,19 @@
+.aTag{
+    color: blue;
+}
+.publishedDate{
+    font-family: Poppins;
+    font-weight: 900;
+    padding-top: 10px;
+}
+.involvePeople{
+    font-family: Poppins;
+    color: rgb(58, 57, 57);
+    font-size: 0.8rem;
+    text-align: center;
+    margin: auto;
+    width: 90%;
+}
+.heading{
+    font-weight: 700;
+}

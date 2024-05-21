@@ -1,0 +1,47 @@
+.achivments{
+    display: flex;
+    justify-content: center;
+    box-shadow: var(--box-shadow);
+    border-radius: 10px;
+    padding: 10px 0;
+    width: 100%;
+    margin: 10px auto;
+}
+.bottomContent{
+    display: flex;
+    padding: 2px 0;
+    font-family: Poppins;
+    font-weight: 900;
+    font-size: 1.3rem;
+    
+}
+.icons{
+    margin-right: 10px;
+    padding: 2px 0;
+    height: 28px;
+    width: 28px;
+}
+.counts{
+    display: inline-flex;
+    flex-direction: column;
+    margin-left: 10px;
+    padding: 2px 0;
+}
+
+.commonItems{
+    display: flex;
+    font-family: Poppins;
+    font-weight: 900;
+    justify-content: baseline;
+    align-items: center;
+    font-size: 1rem;
+    padding: 2px 0;  
+}
+@media screen and (max-width: 456px){
+    .commonItems{
+        font-size: 0.8rem;
+    }
+    .bottomContent{
+        font-size: 0.8rem;
+    }
+}

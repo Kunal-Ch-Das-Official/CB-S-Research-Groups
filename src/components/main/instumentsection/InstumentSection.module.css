@@ -1,0 +1,14 @@
+#image{
+    border-radius: 10px;
+}
+.wrapper{
+    margin: 1rem 0rem;
+    margin-bottom: 4rem;
+    font-family: Poppins;
+}
+.paragraph{
+    color: var(--light-color);
+}
+.title{
+    font-weight: 700;
+}

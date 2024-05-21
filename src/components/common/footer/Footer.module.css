@@ -1,0 +1,102 @@
+
+.brandName{
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-left: 33px;
+    margin-bottom: 20px;
+}
+.logo{
+    display: flex;
+    align-content: center;
+    margin-bottom: 1rem;
+
+}
+.liStyle{
+    display: flex;
+    text-decoration: none;
+    margin: 10px 0px;
+    text-transform: capitalize;
+}
+.listStyle{
+    display: flex;
+    text-decoration: none;
+    margin: 6px 0px;
+    text-transform: lowercase; 
+}
+.IconStyle{
+   margin-right: 10px;
+   
+}
+.secondCol{
+    display: flex;
+    flex-direction: column;
+}
+.copyRight{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 1rem;
+    font-family: Poppins;
+    font-weight: 500;
+    cursor: pointer;
+}
+.copyRightSpan{
+    font-family: Poppins;
+    font-weight: 900;
+}
+
+.BothlinkIcon{
+    display: flex;
+    flex-direction: row;
+    margin: 0px 10px;
+}
+.linkIcon{
+    margin: 25px 10px; 
+}
+@media screen and (max-width: 300px){
+    .liStyle{
+        font-size: 0.7rem;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .listStyle{
+        font-size: 0.7rem;
+        display: flex;
+        flex-direction: column;
+    }
+    .brandName{
+        font-size: 1rem;
+    }
+    .BothlinkIcon{
+        font-size: 0.5rem;
+    }
+}
+@media screen and (max-width: 768px){
+    .copyRight{
+        font-size: 0.7rem;
+    }
+}
+@media screen and (max-width: 494px){
+    .copyRight{
+        font-size: 0.5rem;
+    }
+    .listStyle{
+        font-size: 0.7rem;
+        display: flex;
+        flex-direction: column;
+    }
+}
+@media screen and (max-width: 360px){
+    .copyRight{
+        font-size: 0.4rem;
+
+    }
+    .listStyle{
+        font-size: 0.7rem;
+        display: flex;
+        flex-direction: column;
+    }
+}
+

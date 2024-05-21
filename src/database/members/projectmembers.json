@@ -1,0 +1,52 @@
+[
+    {
+        "id" : 1,
+        "imageUrl" : "msc_member_no-1.webp",
+        "name" : "Yadhukrishna K M",
+        "year" :"YEAR : (2nd Year MSc)",
+        "msc" : "MSC : IIEST, Shibpur ",
+        "bsc" : "BSC : Sree Sankara College, Kalady (Mahatma Gandhi University)",
+        "contact" : "CONTACT : 8593912506",
+        "email" : "yadhukrishnamanu@gmail.com"
+    },
+    {
+        "id" : 2,
+        "imageUrl" : "msc_member_no-2.webp",
+        "name" : "Sumana Rana",
+        "year" :"YEAR : (2nd Year MSc)",
+        "msc" : "MSC : IIEST, Shibpur ",
+        "bsc" : "BSC : Bankura Sammilani College (Burdwan University)",
+        "contact" : "CONTACT : 8967679326",
+        "email" : "sumanarana055@gmail.com"
+    },
+    {
+        "id" : 3,
+        "imageUrl" : "msc_member_no-3.webp",
+        "name" : "Debdeep Dhabal",
+        "year" :"YEAR : (1st Year MSc)",
+        "msc" : "MSC : IIEST, Shibpur ",
+        "bsc" : "BSC : Bankura Christian College (Bankura University)",
+        "contact" : "CONTACT : 7718447591",
+        "email" : "debdeepdhabal@gmail.com"
+    },
+    {
+        "id" : 4,
+        "imageUrl" : "msc_member_no-4.webp",
+        "name" : "Nayna Sharma",
+        "year" :"YEAR : (1st Year MSc)",
+        "msc" : "MSC : IIEST, Shibpur ",
+        "bsc" : "BSC : Digboi College (Dibrugarh University)",
+        "contact" : "CONTACT : 9365049725",
+        "email" : "naynaasharmaa01@gmail.com"
+    },
+    {
+        "id" : 5,
+        "imageUrl" : "msc_member_no-5.webp",
+        "name" : "Aryan Singh",
+        "year" :"YEAR : (1st Year MSc)",
+        "msc" : "MSC : IIEST, Shibpur ",
+        "bsc" : "BSC : R.P. DEGREE COLLEGE,KAMALGANJ, FARRUKHABAD (Chatrapati Sahuji Maharaj Kanpur University)",
+        "contact" : "CONTACT : 6307352936",
+        "email" : "saryansingh037@gmail.com"
+    }
+]

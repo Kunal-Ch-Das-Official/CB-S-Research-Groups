@@ -1,0 +1,20 @@
+.Pubheading{
+    font-family: Poppins;
+    font-weight: 900;
+    text-align: center;
+    align-items: center;
+    padding: 1rem 0;
+    margin: 3rem 0;
+    width: 100%;
+    background: 
+    conic-gradient(
+        #99b5ff 0 0.125turn,
+        transparent 1.126turn 0.874turn,
+        hsl(46.47deg 100% 64.61%) 9.875turn 1turn),
+       conic-gradient(
+        transparent 0 0.375turn,
+        #6765fe 0.95turn 0.9turn,
+        transparent -26.69turn 33turn) 116px 37.8px,
+       #ffef2f;
+       background-size: 140px 140px;
+}

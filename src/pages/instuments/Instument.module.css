@@ -1,0 +1,10 @@
+.instumentheading{
+    background-color: var(--black);
+    text-align: center;
+    padding: 16px 0;
+    color: var(--white);
+    margin-bottom: 3rem;
+    /* position: fixed; */
+    width: 100%;
+    box-shadow: var(--box-shadow);
+  }

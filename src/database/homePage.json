@@ -1,0 +1,23 @@
+{
+    "bannercontent" : {
+        "id" : 1,
+        "heading" : "Welcome To Chinmoy Bhattacharya's Research Lab",
+        "paragraph" : "The main motive of our research group is to build inorganic compound based semiconductors that will contribute to a better, sustainable and cleaner form of energy as an alternative towards the renewable sources of energy. We aim towards the betterment of the future in the most green way possible."
+    },
+    "firstHerosec" : {
+        "id" : 2,
+        "heading" : "Dr. Chinmoy Bhattacharya",
+        "title" : "Associate Dean, Faculty Welfare Associate Professor Chemistry",
+        "paragraph" : "Joined The Institute As Assistant Professor , Department Of Chemistry, Indian Institute Of Engineering Science & Technology, Shibpur (Formerly, BESUS) Howrah - 711 103, West Bengal On 23rd June 2006. Promoted To Associate Professor, Department Of Chemistry, IIESTS On 22nd Feb. 2019."
+
+    },
+    "secondHerosec" : {
+          "id" : 3,
+          "heading" : "Research Areas",
+          "firstlist" : "Studies On Corrosion Behavior Of Al Alloys & Metal Matrix Composites Under Different Environmental Conditions." ,
+          "secondlist" : "Selection Of The Suitable Dopants At An Optimum Level Through Scanning Electrochemical Microscopy (SECM) – Pico-Liter Solution Dispenser Under Illuminated Conditions." ,
+          "thirdlist" : "Development Of Mixed Metal Oxides Based On Ti, Fe, Zn, Bi, In, Cu, Cd Etc. Of Different Structures Like And Their Modified Compounds." ,
+          "fourthlist" : "Analysis Of Photocatalytic And Photoelectrochemical Performance Of Synthesized Photocatalysts." 
+          
+    }
+}

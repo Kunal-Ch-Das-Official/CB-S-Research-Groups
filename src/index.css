@@ -1,0 +1,118 @@
+
+/* POPPINS FONTS DECLAIRATION  */
+@font-face {
+  font-family: Poppins;
+  src: url(./assets/fonts/Poppins-Regular.woff2) format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+/* VARIABLE DECLAIRATION */
+:root{
+  --white: #fff;
+  --background: rgb(255, 255, 255);
+  --black: #130f40;
+  --light-color: #666;
+  --hover-color: rgba(222, 222, 222, 0.6);
+  --box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  --text-shadow:  2px 2px #cfcfcf;
+  --border:  .2px solid rgba( 0, 0, 0.1);
+  --outline:  .1px solid rgb(215, 222, 190);
+  --button-shadow: 0.2rem 0.2rem .4rem rgb(123, 123, 123);
+  
+  }
+
+
+  /* DEFAULT STYLEING  */
+*{
+  font-family: Poppins;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  border: none;
+  text-decoration: none !important;
+  text-transform: capitalize;
+  transition: all .2s linear;
+}
+
+/* HTML DEFAULT STYLEING  */
+html{
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+  scroll-padding-top: 7rem;
+}
+
+/* DEFAULT BODY STYLEING  */
+body{
+  background: #eee;
+}
+
+
+/* COMMON USED BUTTON  */
+.common_btn{
+  border: .1px solid var(--black);
+  background-color: var(--white);
+  text-align: center;
+  margin-top: 1rem;
+  display: inline-block;
+  padding: .4rem 2.5rem;
+  font-size: 1.3rem;
+  font-family: Poppins;
+  font-weight: 700;
+  border-radius: .5rem;
+  color: var(--black);
+  cursor: pointer;
+ 
+  
+}
+
+/* COMMON USED BUTTON HOVER EFFECT  */
+.common_btn:hover{
+  background: var(--hover-color);
+  box-shadow: var(--button-shadow);
+  border: .12rem solid var(--black);
+  
+}
+
+/* RESPONSIVENESS OF THE BUTTON  */
+@media screen and (max-width: 450px){
+  .common_btn{
+    font-size: 0.65rem;
+    padding: .4rem 1.5rem;
+  }
+
+}
+
+/* NAVLIKS GLOBAL STYLEING  */
+.nav-link:focus {
+  outline: none !important;
+  box-shadow: none !important;
+  border-radius: 1rem;
+}
+
+
+/* NAV ACTIVE STYLEING  */
+.active{
+  border-radius: 1rem;
+  background-color: #f5f5f5;
+  box-shadow: var(--button-shadow);
+}
+
+
+.topic{
+  font-family: Poppins;
+  font-weight: 900;
+  text-shadow: var(--text-shadow);
+  color: var(--black);
+  font-size: 2.5rem;
+  text-align: center;
+
+}
+@media screen and (max-width: 400px) {
+  .topic{
+    font-size: 1.8rem;
+  }
+}
+
+

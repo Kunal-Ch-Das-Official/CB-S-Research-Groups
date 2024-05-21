@@ -1,0 +1,96 @@
+
+@keyframes ldio-mjilv2u3oe {
+    0%    { transform: translate(2px,2px) }
+   33.33% { transform: translate(102px,2px) }
+   66.66% { transform: translate(42px,102px) }
+   100%{ transform: translate(2px,2px) }
+}
+
+
+.ldio-mjilv2u3oe > div {
+  transform: scale(0.8);
+  transform-origin: 100px 100px;
+}
+
+.ldio-mjilv2u3oe > div > div {
+  animation: ldio-mjilv2u3oe 1s linear infinite;
+  position: absolute
+}
+
+.ldio-mjilv2u3oe > div > div div:nth-child(1) {
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+  border: 12px solid #000000;
+  background: transparent;
+}
+
+.ldio-mjilv2u3oe > div > div div:nth-child(2) {
+  width: 17px;
+  height:  51px;
+  transform: rotate(-45deg);
+  background: #000000;
+  border-radius: 0 0 8px 8px;
+  position: absolute;
+  top: 68px;
+  left: 85px
+}
+.loadingio-spinner-magnify-knfujxdmez {
+  width: 200px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
+  background: transparent;
+  border-radius: 50%;
+}
+.ldio-mjilv2u3oe {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  transform: translateZ(0) scale(1);
+  backface-visibility: hidden;
+  transform-origin: 0 0; /* see note above */
+}
+.ldio-mjilv2u3oe div { box-sizing: content-box; }
+.animation{
+  display: flex;
+  justify-content: center;
+  margin-top: 50vh;
+}
+
+@media screen and (max-width: 991px) {
+  .animation{
+    margin-top: 40vh;
+  }
+}
+@media screen and (max-width: 789px) {
+  .ldio-mjilv2u3oe > div > div div:nth-child(1) {
+    width: 50px;
+    height: 50px;
+}
+.animation{
+  margin-top: 40vh;
+}
+}
+@media screen and (max-width: 300px) {
+  .ldio-mjilv2u3oe > div > div div:nth-child(1) {
+    width: 30px;
+    height: 30px;
+  }
+  .ldio-mjilv2u3oe > div > div div:nth-child(2) {
+    width: 14px;
+    height:  31px;
+    transform: rotate(-45deg);
+    background: #000000;
+    border-radius: 0 0 8px 8px;
+    position: absolute;
+    top: 68px;
+    left: 85px
+  }
+}
+@media screen and (min-width: 124px) {
+  .animation{
+    margin-top: 35vh;
+  }
+}

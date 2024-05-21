@@ -1,0 +1,50 @@
+#ResearchTopic .mainContainer .content {
+    background: #fff;
+  }
+  
+  #ResearchTopic .mainContent {
+    padding-top: 60px;
+  }
+  
+  #ResearchTopic .mainContent h4 {
+    font-weight: 600;
+    font-size: 24px;
+  }
+
+  .researchTitle{
+    font-family: Poppins;
+    font-weight: 900;
+    text-shadow: var(--text-shadow);
+    color: var(--black);
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+  .researchsummary{
+    font-family: Poppins;
+    color: var(--black);
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+  #img-3{
+    width: 110%;
+    height: 70%;
+  }
+
+  @media screen and (max-width: 991px) {
+    .thesis{
+
+      margin-left: 1.3rem;
+    }
+  }
+
+  @media screen and (max-width: 400px) {
+    #img-3{
+      width: 100%;
+      height: 70%;
+    }
+    .researchTitle{
+      font-size: 1.2rem  !important;
+    }
+  }

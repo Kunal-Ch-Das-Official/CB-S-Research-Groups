@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /assets
+Disallow: /database
+Allow: /home/Home
+Allow: /professor/Professor
+Allow: /research/Research
+Allow: /publication/Publication
+Allow: /members/Members
+Allow: /groupnews/Groupnews
+Allow: /alumni/Alumni
+Allow: /instument/Instument
+Allow: /phdstudent/PhdStudent
+Allow: /projectstudents/ProjectStudent
+

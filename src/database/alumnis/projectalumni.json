@@ -1,0 +1,29 @@
+[
+    {
+        "id" : 1,
+        "imageUrl" : "project_alumni_no-1.webp",
+        "name" : "Aditya Poddar",
+        "msc" : "MSC : IIEST, Shibpur ",
+        "bsc" : "BSC : Ramakrishna Mission Vivekananda Centenary College, Rahara (West Bengal State University)",
+        "contact" : "CONTACT : 7003191127",
+        "email" : "poddaraditya45@gmail.com"
+    },
+    {
+        "id" : 2,
+        "imageUrl" : "project_alumni_no-2.webp",
+        "name" : "Krishna Majhi",
+        "msc" : "MSC : IIEST, Shibpur ",
+        "bsc" : "BSC : Gurudas College (University Of Calcutta)",
+        "contact" : "CONTACT : 8482085918",
+        "email" : "krishnaofficial65347@gmail.com"
+    },
+    {
+        "id" : 3,
+        "imageUrl" : "project_alumni_no-3.webp",
+        "name" : "Jyotirmoy Sardar",
+        "msc" : "MSC : IIEST, Shibpur ",
+        "bsc" : "BSC : Brahmananda  Keshab Chandra College (West Bengal State University)",
+        "contact" : "CONTACT : 7439024970",
+        "email" : "jyotirmoysardar248@gmail.com"
+    }
+]

@@ -1,0 +1,5 @@
+.AQRow{
+    box-shadow: var(--box-shadow);
+    border-radius: 1rem;
+    margin-bottom: 2.5rem;
+}

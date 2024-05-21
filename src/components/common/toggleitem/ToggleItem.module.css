@@ -1,0 +1,73 @@
+.container{
+    width: 90%;
+    border-radius: .5rem;
+    box-shadow: var(--button-shadow);
+    padding-top: 3rem;
+    margin-top: 4rem;
+}
+.crossicon{
+   float: right;
+   margin-right: 1rem;
+   display: flex;
+   
+}
+.crossicon:hover{
+    height: 45px;
+    width: 45px;
+}
+.toggleTitle{
+    font-size: 1.2rem;
+    text-align: center;
+    margin-bottom: 5rem;
+    margin-top: 4rem;
+    font-weight: 700;
+}
+
+.abstract{
+    font-family: Poppins;
+    font-weight: 500;
+    text-shadow: var(--text-shadow);
+    margin: 3.4rem;
+    font-size: 2rem;
+
+}
+
+.abstracttext{
+    font-family: Poppins;
+    text-align: center;
+}
+
+.abstractImg{
+    display: block;
+    margin: auto;
+}
+.supportinghead{
+    font-family: Poppins;
+    font-weight: 500;
+    text-shadow: var(--text-shadow);
+    margin: 3.4rem;
+    font-size: 2rem;
+}
+.supporttext{
+    font-family: Poppins;
+    text-align: center;
+    padding-bottom: 6rem;
+}
+
+@media screen and (max-width: 290px){
+    .abstract{
+        font-size: 1.3rem;
+    }
+    .abstracttext{
+        font-size: .7rem;
+    }
+    .supportinghead{
+        font-size: 1.3rem;
+    }
+    .supporttext{
+        font-size: .7rem;
+    }
+    .toggleTitle{
+        font-size: 1.1rem;
+    }
+}

@@ -1,0 +1,98 @@
+.heading{
+    font-family: Poppins;
+    font-weight: 900;
+}
+
+#formfelds{
+    outline: var(--outline);
+    box-shadow: var(--button-shadow);
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 3rem;
+    border-radius: 10px;
+}
+.inputName{
+    margin-left: 5rem;
+    font-size: 1.3rem;
+    font-family: Poppins;
+    font-weight: 600;
+    
+}
+.inputValue{
+    outline: var(--outline);
+    box-shadow: var(--button-shadow);
+    margin: 1rem 5rem;
+    padding: 7px 0rem;
+    
+    
+}
+.inputEmail{
+    outline: var(--outline);
+    box-shadow: var(--button-shadow);
+    margin: 1rem 5rem;
+    padding: 7px 0rem;
+    text-transform: lowercase;
+}
+
+.messageInput{
+    margin: 1rem 5rem;
+    outline: var(--outline);
+    box-shadow: var(--button-shadow);
+}
+
+.button{
+    display: block;
+    width: 15%;
+    margin: auto;
+}
+
+::placeholder{
+    padding-left: 1rem;
+    text-transform: capitalize;
+}
+@media screen and (max-width: 991px) {
+    .button{
+        padding: 0 1rem;
+    }
+}
+@media screen and (max-width: 815px) {
+    .button{
+        width: 20%;
+    }
+}
+@media screen and (max-width: 520px) {
+    #formfelds{
+        padding: 2rem 0;
+        margin: 0 0;
+        
+    }
+    .inputValue{
+        padding: 0 1rem;
+        width: 200px;
+        display: block;
+        margin: 1rem auto;
+    }
+    .inputEmail{
+        padding: 0 1rem;
+        width: 200px;
+        display: block;
+        margin: 1rem auto;
+    }
+    .inputName{
+        font-size: 1rem;
+    }
+    ::placeholder{
+        font-size: smaller;
+    }
+    .button{
+        font-size: 1rem;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .button{
+        font-size: .8rem;
+        width: 25%;
+    }
+}

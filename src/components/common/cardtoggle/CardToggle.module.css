@@ -1,0 +1,48 @@
+.contents{
+    outline: var(--outline);
+    box-shadow: var(--box-shadow);
+    padding: 2rem 2rem;
+    border-radius: 5px;
+    width: 330px;
+}
+
+.wrapper{
+  margin: 2rem 0;
+}
+.name{
+    margin: 1rem 0;
+    font-weight: 900;
+}
+.studies{
+    margin: 1rem 0; 
+}
+.email{
+    text-transform: lowercase;
+}
+.emailSpan{
+    display: flex;
+    flex-direction: row;
+}
+.closeBtn{
+    float: right;
+    margin-bottom: 2rem;
+}
+.closeBtn:hover{
+    height: 45px;
+    width: 45px;
+}
+@media screen and (max-width: 340px) {
+    .contents{
+        width: 280px;
+    }
+    .name{
+        font-size: 1.2rem;
+    }
+    .studies{
+        font-size: .8rem;
+    }
+    .email{
+        font-size: .7rem;
+    }
+
+}

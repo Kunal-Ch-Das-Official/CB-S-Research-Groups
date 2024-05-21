@@ -1,0 +1,40 @@
+.navbar{
+    background-color: var(--white);
+    box-shadow: var(--box-shadow);
+}
+
+.brand{
+    display: flex;
+    align-items: center;
+}
+
+#listItems{
+    display: flex;
+    color: var(--black);
+    font-family: Poppins;
+    font-weight: 700;
+    padding: 10px 16px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border-radius: 1rem;
+   
+
+}
+#listItems:hover{
+    border-radius: 1rem;
+    background-color: var(--hover-color);
+   
+}
+
+.replacement{
+    height: 30px;
+    width: 30px;
+}
+
+@media screen and (max-width: 550px){
+    .togglebtn{
+        font-size: .7rem;
+        
+    }
+}
